@@ -1,0 +1,3 @@
+function foo<T extends CondTuple[]>(args: T): Ret<T> {
+    // ...
+}
